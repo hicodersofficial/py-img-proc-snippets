@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 
 ## Content Table
 
-| S. No | Repo                           |
+| S. No | Code                           |
 | ----- | ------------------------------ |
 | 01    | [GrayScale][grayscale]         |
 | 02    | [Change Format][change_format] |
