@@ -2,6 +2,12 @@
 
 Collection of Python code snippets for image processing, manipulation and computer vision.
 
+## Installation
+
+```
+$ pip install -r requirements.txt
+```
+
 ## Content Table
 
 | S. No | Repo                           |
